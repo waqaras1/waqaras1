@@ -2,12 +2,6 @@
 <h3 align="center">A Passionate Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZxaDYyeTU4NTBucGpieXBxc2JkcXI5MXRscHczNGdiengzeGp6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waqaras1&label=Profile%20views&color=0e75b6&style=flat" alt="waqaras1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waqaras1" alt="waqaras1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/waqarhere147" target="blank"><img src="https://img.shields.io/twitter/follow/waqarhere147?logo=twitter&style=for-the-badge" alt="waqarhere147" /></a> </p>
-
 - 🔭 I’m currently working on **Coin Bounce**
 
 - 🌱 I’m currently learning **MERN Stack**
