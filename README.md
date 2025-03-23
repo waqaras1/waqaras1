@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **MERN, Java MySQL**
+- 💬 Ask me about **Reactjs| Nextjs**
 
 - 📫 How to reach me **waqaras.dev@gmail.com**
 
