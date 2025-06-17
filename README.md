@@ -14,7 +14,7 @@
 📧 `waqaras.dev@gmail.com`
 
 🌐 **Portfolio:**  
-🔗 [waqaras.dev](https://waqaras.dev
+🔗 https://waqaras.dev
 
 
 ### 🌐 Connect with Me
