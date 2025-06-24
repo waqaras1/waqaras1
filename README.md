@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waqar Ahmed</h1>
-<h3 align="center">A Passionate Full Stack Developer | Building Scalable Web Experiences</h3>
+<h3 align="center">A Passionate Full Stack Developer | Building Scalable Web Experiences </h3>
 
 🔭 **Currently working on:**  
 🚀 `PrepwiseLy` – A Real-Time AI Interview Preparation Platform
