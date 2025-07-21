@@ -4,7 +4,7 @@
 
 🔭 **Currently working on:**  
 🚀 `PrepwiseLy` – A Real-Time AI Interview Preparation Platform  
-💼 Backend Developer at **Aykays**
+💼 MERN Stack Developer at **Aykays**
 
 🌱 **Currently learning:**  
 💻 Advancing my expertise in the **MERN Stack** to build high-performance, scalable full-stack applications
