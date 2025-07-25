@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waqar Ahmed</h1>
-<h3 align="center">Backend-Focused Software Engineer | Building Scalable & Secure Systems</h3>
+<h3 align="center">Software Engineer | Building Scalable & Secure Systems</h3>
 
 ---
 
