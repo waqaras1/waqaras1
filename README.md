@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Waqar Ahmed</h1>
-<h3 align="center">A Passionate Full Stack Developer | Building Scalable Web Experiences</h3>
+<h3 align="center">Backend-Focused Software Engineer | Building Scalable & Secure Systems</h3>
 
+---
 
 🔭 **Currently working on:**  
-🚀 `PrepwiseLy` – A Real-Time AI Interview Preparation Platform  
-💼 MERN Stack Developer at **Aykays**
+🚀 `ConsciousDay Agent` – An AI-powered journaling app with a robust backend using **Node.js**, **LangChain**, and **SQLite**  
+💼 Backend Developer Intern at **Aykays**, working on scalable APIs and database optimizations
 
 🌱 **Currently learning:**  
-💻 Advancing my expertise in the **MERN Stack** to build high-performance, scalable full-stack applications
+⚙️ Advanced **Backend Architecture**, **Microservices**, and **Cloud Deployment (AWS)**  
+📌 Exploring **Ruby on Rails** & **GoLang** to expand backend expertise
 
 💬 **Ask me about:**  
-⚛️ `React.js`, `Next.js`, `Node.js`, and building fast, responsive UIs and APIs
+🔹 RESTful API Design  
+🔹 Node.js, Express.js, PostgreSQL  
+🔹 CI/CD, Cloud Infrastructure, and Secure Backend Development
 
 📫 **Reach out to me at:**  
 📧 `waqaras.dev@gmail.com`
@@ -37,35 +41,36 @@
 
 ### 🛠️ Tech Stack
 
-#### 🚧 Frontend:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40"/>
-</p>
-
-#### 🔧 Backend:
+#### ⚙️ Backend:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="Ruby" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GoLang" width="40"/>
 </p>
 
 #### 🗄️ Databases:
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
 </p>
 
-#### ⚙️ Tools & Version Control:
+#### 🌐 Frontend (Bonus):
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40"/>
+</p>
+
+#### ☁️ Tools & DevOps:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/>
 </p>
 
 ---
 
-### 🚀 Let's Build Something Great Together
-Have an idea or want to collaborate? I'm always open to exciting projects, new challenges, and meaningful conversations. Let's connect and bring your vision to life!
+### 🚀 Let's Build Scalable Systems Together
+Have an idea or looking for a backend engineer to create secure, high-performance systems? Let's connect and make it happen!
