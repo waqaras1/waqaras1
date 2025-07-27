@@ -5,7 +5,7 @@
 
 🔭 **Currently working on:**  
 🚀 `ConsciousDay Agent` – An AI-powered journaling app with a robust backend using **Node.js**, **LangChain**, and **SQLite**  
-💼 Backend Developer at **AYKAYS - Software Agency**, working on scalable APIs and database optimizations
+💼 `Software Engineer - Backend` at **AYKAYS - Software Agency**, working on scalable APIs and database optimizations
 
 🌱 **Currently learning:**  
 ⚙️ Advanced **Backend Architecture**, **Microservices**, and **Cloud Deployment (AWS)**  
