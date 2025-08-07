@@ -1,20 +1,24 @@
 <h1 align="center">Hi 👋, I'm Waqar Ahmed</h1>
-<h3 align="center">Software Engineer | Building Scalable & Secure Systems</h3>
+<h3 align="center">Full Stack Software Engineer | Crafting Scalable Products, End to End</h3>
 
 ---
 
 🔭 **Currently working on:**  
-🚀 `ConsciousDay Agent` – An AI-powered journaling app with a robust backend using **Node.js**, **LangChain**, and **SQLite**  
-💼 `Software Engineer - Backend` at **AYKAYS - Software Agency**, working on scalable APIs and database optimizations
+🚀 `Chatrio` – A no-code SaaS that lets users train and embed AI chatbots in minutes (Next.js + Node.js + LangChain + ChromaDB)  
+🧠 `ConsciousDay Agent` – An AI-powered journaling assistant using **LangChain**, **SQLite**, and **Streamlit**  
+💼 `Software Engineer - Backend` at **AYKAYS - Software Agency**, building scalable APIs, modern UIs, and cloud-ready systems
 
-🌱 **Currently learning:**  
-⚙️ Advanced **Backend Architecture**, **Microservices**, and **Cloud Deployment (AWS)**  
-📌 Exploring **Ruby on Rails** & **GoLang** to expand backend expertise
+🌱 **Currently learning & exploring:**  
+- Advanced **Backend Architecture**, **Microservices**, and **Cloud Infrastructure (AWS)**  
+- **Frontend Engineering at scale** using **Next.js** and **Tailwind CSS**  
+- Expanding into **Ruby on Rails** & **GoLang** for multi-paradigm backend exposure
 
 💬 **Ask me about:**  
-🔹 RESTful API Design  
-🔹 Node.js, Express.js, PostgreSQL  
-🔹 CI/CD, Cloud Infrastructure, and Secure Backend Development
+- REST & GraphQL API Design  
+- Full Stack Development (MERN + Next.js)  
+- Building SaaS from scratch  
+- Secure, Scalable, and Performant Web Apps  
+- AI Agent Workflows & RAG-based Systems
 
 📫 **Reach out to me at:**  
 📧 `waqaras.dev@gmail.com`
@@ -41,14 +45,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
 </p>
 
-#### 🌐 Frontend :
+#### 🌐 Frontend:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40"/>
 </p>
 
-#### ☁️ Tools & DevOps:
+#### ☁️ DevOps & Tools:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/>
@@ -57,5 +61,5 @@
 
 ---
 
-### 🚀 Let's Build Scalable Systems Together
-Have an idea or looking for a backend engineer to create secure, high-performance systems? Let's connect and make it happen!
+### 🚀 Let's Build Great Products, Front to Back
+Whether you're launching a new SaaS, improving infrastructure, or adding AI to your platform — I'm ready to help bring your ideas to life.
