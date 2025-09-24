@@ -6,15 +6,14 @@
 🔭 **Currently working on:**  
 🚀 `Chatrio` – A Platform that lets users train and embed AI chatbots in minutes (Next.js + Node.js + LangChain + ChromaDB)  
 🧠 `ConsciousDay Agent` – An AI-powered journaling assistant using **LangChain**, **SQLite**, and **Streamlit**  
-💼 `Software Engineer - Backend` at **AYKAYS - Software Agency**, building scalable APIs, modern UIs, and cloud-ready systems
+💼 `Software Engineer` at **AYKAYS - Software Agency**, building scalable APIs, modern UIs, and cloud-ready systems
 
 🌱 **Currently learning & exploring:**  
 - Advanced **Backend Architecture**, **Microservices**, and **Cloud Infrastructure (AWS)**  
 - **Frontend Engineering at scale** using **Next.js** and **Tailwind CSS**  
-- Expanding into **Ruby on Rails** & **GoLang** for multi-paradigm backend exposure
+
 
 💬 **Ask me about:**  
-- REST & GraphQL API Design  
 - Full Stack Development (MERN + Next.js)  
 - Building SaaS from scratch  
 - Secure, Scalable, and Performant Web Apps  
@@ -23,8 +22,6 @@
 📫 **Reach out to me at:**  
 📧 `waqaras.dev@gmail.com`
 
-🌐 **Portfolio:**  
-🔗 [waqaras.dev](https://waqaras.dev)
 
 ---
 
