@@ -6,7 +6,7 @@
 🔭 **Currently working on:**  
 🚀 `Chatrio` – A Platform that lets users train and embed AI chatbots in minutes (Next.js + Node.js + LangChain + ChromaDB)  
 🧠 `ConsciousDay Agent` – An AI-powered journaling assistant using **LangChain**, **SQLite**, and **Streamlit**  
-💼 `Software Engineer` at **AYKAYS - Software Agency**, building scalable APIs, modern UIs, and cloud-ready systems
+
 
 🌱 **Currently learning & exploring:**  
 - Advanced **Backend Architecture**, **Microservices**, and **Cloud Infrastructure (AWS)**  
