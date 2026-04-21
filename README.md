@@ -17,7 +17,7 @@ I build SaaS products and AI systems from idea → MVP → scalable product.
 
 ---
 
-## ⚙️ Tech Stack (Practical, Not Decorative)
+## ⚙️ Tech Stack
 
 **Backend**
 Node.js · Express · Go · Ruby
