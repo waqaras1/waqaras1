@@ -10,10 +10,10 @@ Focused on shipping real products, not just prototypes.
 </p>
 
 <p align="center">
-<a href="https://waqaras.vercel.app">Portfolio</a> •
+<a href="https://waqaras.dev">Portfolio</a> •
 <a href="https://github.com/waqaras1">GitHub</a> •
 <a href="mailto:waqaras.dev@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+<a href="https://linkedin.com/in/waqaras/">LinkedIn</a>
 </p>
 
 ---
@@ -103,10 +103,10 @@ Docker • AWS • Git • Vercel
 waqaras.dev@gmail.com
 
 🌐 **Portfolio**  
-https://waqaras.vercel.app
+https://waqaras.dev
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/YOUR-LINKEDIN
+https://linkedin.com/in/waqaras/
 
 ---
 
