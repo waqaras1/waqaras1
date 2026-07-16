@@ -33,8 +33,8 @@ A multi-tenant AI chatbot platform that enables businesses to deploy ChatGPT-pow
 
 ---
 
-### 🏡 OneUpAI
-AI-powered SaaS platform for real estate businesses to automate customer engagement and lead qualification.
+### 🏗️ OneUpAI Platform
+Multi-tenant website builder SaaS with AI-powered chat, Stripe billing, and Google Calendar sync. Architected the monorepo, async job queues (Redis/BullMQ), and tenant data isolation.
 
 ---
 
@@ -57,22 +57,22 @@ AI-powered learning platform featuring structured roadmaps, certifications, prog
 ## 🛠 Tech Stack
 
 ### Languages
-JavaScript • TypeScript • Python • Go • Ruby
+JavaScript • TypeScript
 
 ### Frontend
 Next.js • React • Tailwind CSS
 
 ### Backend
-Node.js • Express • REST APIs
+Node.js • Express • NestJS • REST APIs • Prisma
 
 ### AI
-OpenAI • RAG • Embeddings • AI Agents
+OpenAI • RAG • pgvector • LLM Integration
 
 ### Databases
-PostgreSQL • MongoDB • MySQL • SQLite
+PostgreSQL • Supabase • MongoDB • Redis
 
 ### Infrastructure
-Docker • AWS • Git • Vercel
+Docker • AWS • Vercel • BullMQ • Stripe
 
 ---
 
@@ -89,10 +89,8 @@ Docker • AWS • Git • Vercel
 ## 🤝 Open To
 
 - Software Engineering roles
-- Backend Engineering roles
 - Full-Stack Engineering roles
 - AI Engineering opportunities
-- Freelance & consulting projects
 - Open-source collaboration
 
 ---
