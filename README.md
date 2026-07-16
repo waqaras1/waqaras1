@@ -22,7 +22,7 @@ Focused on shipping real products, not just prototypes.
 ## Featured Projects
 
 ### BotraAI — Flagship
-**Founding Engineer — Architecture, Full-Stack &amp; DevOps**
+**Solo Founder — Architecture, Full-Stack &amp; DevOps**
 
 Production multi-tenant AI chatbot SaaS — hybrid search, multi-LLM orchestration, and CRM integrations. Solely responsible for architecture, reliability, and end-to-end delivery.
 
