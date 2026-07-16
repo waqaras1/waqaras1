@@ -1,6 +1,7 @@
 <h1 align="center">Waqar Ahmed</h1>
+
 <h3 align="center">
-Software Engineer · Full-Stack · AI & SaaS
+Software Engineer · Full-Stack · AI &amp; SaaS
 </h3>
 
 <p align="center">
@@ -10,7 +11,7 @@ Focused on shipping real products, not just prototypes.
 </p>
 
 <p align="center">
-<a href="https://waqaras.dev">Portfolio</a> •
+<a href="https://waqaras.dev/">Portfolio</a> •
 <a href="https://github.com/waqaras1">GitHub</a> •
 <a href="mailto:waqaras.dev@gmail.com">Email</a> •
 <a href="https://linkedin.com/in/waqaras/">LinkedIn</a>
@@ -18,75 +19,83 @@ Focused on shipping real products, not just prototypes.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 BotraAI
-A multi-tenant AI chatbot platform that enables businesses to deploy ChatGPT-powered assistants on their websites.
+### BotraAI — Flagship
+**Founding Engineer — Architecture, Full-Stack &amp; DevOps**
 
-**Highlights**
-- Multi-tenant SaaS architecture
-- RAG with vector embeddings
-- Human handoff to live agents
-- Google Calendar scheduling
-- Embeddable website widget
-- Production deployment
+Production multi-tenant AI chatbot SaaS — hybrid search, multi-LLM orchestration, and CRM integrations. Solely responsible for architecture, reliability, and end-to-end delivery.
 
----
+- Architected and shipped the entire platform solo — Next.js/React frontend, Node.js/TypeScript backend, PostgreSQL data layer — serving paying business tenants in production
+- Engineered a hybrid retrieval pipeline combining pgvector embeddings with BM25 keyword search via reciprocal rank fusion (RRF), delivering reliable results across short and long-form queries
+- Built a multi-provider LLM orchestration layer supporting GPT-4o, Claude, and Gemini with automatic failover — ensuring chat availability during provider outages
+- Integrated Google Calendar and HubSpot CRM with tenant-level data isolation and role-based access control, enforcing strict multi-tenant boundaries
 
-### 🏗️ OneUpAI Platform
-Multi-tenant website builder SaaS with AI-powered chat, Stripe billing, and Google Calendar sync. Architected the monorepo, async job queues (Redis/BullMQ), and tenant data isolation.
+**Stack:** Next.js · React · Node.js · TypeScript · PostgreSQL · pgvector · Stripe · Docker
+
+**Live:** [botraai.com](https://botraai.com)
 
 ---
 
-### 🎓 OneUpAI Academy
-AI-powered learning platform featuring structured roadmaps, certifications, progress tracking, and personalized learning experiences.
+### Wonkerbots
+**Backend Engineer — Billing &amp; Marketplace Infrastructure**
+
+AI agent marketplace with per-run transparent pricing, Stripe credit billing, and a pipeline that lets independent agents compete on quality and price.
+
+- Designed and built the marketplace backend from scratch — agent registration, discovery, execution tracking, and transparent per-run pricing with real-time cost breakdowns
+- Implemented a Stripe-integrated credit system with prepaid billing, automatic top-up triggers, and usage-based metering — processing transactions across the agent marketplace
+- Architected the PostgreSQL schema for a multi-agent marketplace data model with normalized pricing tables, execution logs, and user credit ledgers ensuring transactional integrity
+
+**Stack:** Node.js · TypeScript · PostgreSQL · Prisma · Stripe
+
+**Live:** [wonkerbots.ai](https://wonkerbots.ai)
 
 ---
 
-## 💡 What I Enjoy Building
+### OneUpAI Platform
+**Lead Engineer — Architecture &amp; Platform**
 
-- AI-powered SaaS products
-- Multi-tenant architectures
-- Backend systems that scale
-- Modern React & Next.js applications
-- LLM integrations, RAG, and AI agents
-- APIs and developer tools
+Multi-tenant website builder SaaS with AI-powered chat, Stripe billing, and Google Calendar sync. Architected the monorepo, async job pipelines, and tenant isolation.
+
+- Architected a production monorepo powering dynamic template provisioning and multi-tenant chat, enforcing tenant data isolation at the application layer across all services
+- Designed resilient Stripe webhook processing and revenue reconciliation pipelines on Redis-backed BullMQ job queues — handling retries, idempotency, and dead-letter queues for failed events
+- Built cross-tenant Google Calendar booking synchronization with conflict detection, ensuring appointments never double-book across tenant boundaries
+
+**Stack:** Next.js · TypeScript · NestJS · Prisma · PostgreSQL
+
+**Live:** [oneupai.com](https://oneupai.com)
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-JavaScript • TypeScript
+## Tech Stack
 
 ### Frontend
-Next.js • React • Tailwind CSS
+Next.js • React • TypeScript • Tailwind CSS
 
 ### Backend
-Node.js • Express • NestJS • REST APIs • Prisma
-
-### AI
-OpenAI • RAG • pgvector • LLM Integration
+Node.js • NestJS • Express • REST APIs • Prisma
 
 ### Databases
 PostgreSQL • Supabase • MongoDB • Redis
 
+### AI
+OpenAI • RAG • pgvector • LLM Integration
+
 ### Infrastructure
-Docker • AWS • Vercel • BullMQ • Stripe
+Docker • Vercel • Stripe • BullMQ
 
 ---
 
-## 📈 Currently Focused On
+## Currently Focused On
 
 - Designing scalable SaaS architecture
 - AI-native application development
 - Production-grade backend engineering
-- Performance and developer experience
 - Shipping products consistently
 
 ---
 
-## 🤝 Open To
+## Open To
 
 - Software Engineering roles
 - Full-Stack Engineering roles
@@ -95,16 +104,11 @@ Docker • AWS • Vercel • BullMQ • Stripe
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 **Email**  
-waqaras.dev@gmail.com
-
-🌐 **Portfolio**  
-https://waqaras.dev
-
-💼 **LinkedIn**  
-https://linkedin.com/in/waqaras/
+- **Email** — [waqaras.dev@gmail.com](mailto:waqaras.dev@gmail.com)
+- **Portfolio** — [waqaras.dev](https://waqaras.dev/)
+- **LinkedIn** — [linkedin.com/in/waqaras](https://linkedin.com/in/waqaras/)
 
 ---
 
