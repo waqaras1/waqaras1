@@ -21,21 +21,6 @@ Focused on shipping real products, not just prototypes.
 
 ## Featured Projects
 
-### BotraAI — Flagship
-**Solo Founder — Architecture, Full-Stack &amp; DevOps**
-
-Production multi-tenant AI chatbot SaaS — hybrid search, multi-LLM orchestration, and CRM integrations. Solely responsible for architecture, reliability, and end-to-end delivery.
-
-- Architected and shipped the entire platform solo — Next.js/React frontend, Node.js/TypeScript backend, PostgreSQL data layer — serving paying business tenants in production
-- Engineered a hybrid retrieval pipeline combining pgvector embeddings with BM25 keyword search via reciprocal rank fusion (RRF), delivering reliable results across short and long-form queries
-- Built a multi-provider LLM orchestration layer supporting GPT-4o, Claude, and Gemini with automatic failover — ensuring chat availability during provider outages
-- Integrated Google Calendar and HubSpot CRM with tenant-level data isolation and role-based access control, enforcing strict multi-tenant boundaries
-
-**Stack:** Next.js · React · Node.js · TypeScript · PostgreSQL · pgvector · Stripe · Docker
-
-**Live:** [botraai.com](https://botraai.com)
-
----
 
 ### Wonkerbots
 **Backend Engineer — Billing &amp; Marketplace Infrastructure**
